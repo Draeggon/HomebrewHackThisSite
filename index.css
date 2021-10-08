@@ -1,0 +1,15 @@
+body {
+	background: black;
+	color: white;
+	text-align: center;
+	margin-top: 10em;
+}
+
+a {
+	color: lightblue;
+}
+
+input {
+	background: grey;
+	color: white;
+}
